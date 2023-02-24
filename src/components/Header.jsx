@@ -8,7 +8,7 @@ function Header() {
         alt=""
         style={{ height: "35px", verticalAlign: "top" }}
       ></img>
-      <span className="h2 pt-4 m-2 text-white-50">React Course - CountOPedia</span>
+      <span className="h2 pt-4 m-2 text-white-50">CountOPedia</span>
     </div>
   );
 }
